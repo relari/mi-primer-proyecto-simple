@@ -5,6 +5,8 @@
     <artifactId>mi-primer-proyecto-simple</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <name>Mi Primer Proyecto Simple</name>
+    <description>Proyecto simple de ejemplo usando Maven</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
